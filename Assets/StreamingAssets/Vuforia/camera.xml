@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="simple-maze_scaled1" size="1.000000 0.666667" />
+    <ImageTarget name="visitka" size="1.000000 0.569149" />
+    <ImageTarget name="images" size="1.000000 1.361111" />
+  </Tracking>
+</QCARConfig>

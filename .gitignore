@@ -1,0 +1,56 @@
+# --- Unity: генерируется автоматически, в репозиторий не кладём ---
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.utmp/
+/QCAR/
+
+# Сборки
+/[Bb]uild/
+/[Bb]uilds/
+*.apk
+*.aab
+*.unitypackage
+
+# Резервная копия сцены
+/SampleScene.backup.unity
+
+# Пакет Vuforia Engine (132 МБ — больше лимита GitHub в 100 МБ, и его нельзя
+# распространять по лицензии Vuforia). Скачивается с developer.vuforia.com — см. README.
+/Packages/com.ptc.vuforia.engine-*.tgz
+
+# Чужие картинки, не нужные для работы игры:
+# превью метки с персонажем Nintendo и печатные PDF из примеров Vuforia
+/Assets/Editor/Vuforia/ImageTargetTextures/camera/images_scaled.jpg
+/Assets/Editor/Vuforia/ImageTargetTextures/camera/images_scaled.jpg.meta
+/Assets/Editor/Vuforia/ForPrint/
+/Assets/Editor/Vuforia/ForPrint.meta
+
+# Файлы IDE
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Служебные файлы Unity/ОС
+sysinfo.txt
+crashlytics-build.properties
+.DS_Store
+Thumbs.db
+desktop.ini
